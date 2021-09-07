@@ -1,0 +1,146 @@
+@font-face {
+    font-family: "font1"; 
+    src: url("../fonts/20011.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+@font-face {
+    font-family: "font2"; 
+    src: url("../fonts/20136.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+@font-face {
+    font-family: "font3"; 
+    src: url("../fonts/20138.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+@font-face {
+    font-family: "font4"; 
+    src: url("../fonts/20421.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+@font-face {
+    font-family: "font5"; 
+    src: url("../fonts/17923.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+@font-face {
+    font-family: "font6"; 
+    src: url("../fonts/17891.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+@font-face {
+    font-family: "font7"; 
+    src: url("../fonts/17734.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+@font-face {
+    font-family: "font8"; 
+    src: url("../fonts/15352.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+@font-face {
+    font-family: "roboto"; 
+    src: url("../fonts/Robotoblack.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+@font-face {
+    font-family: "tesla"; 
+    src: url("../fonts/TESLA.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+
+
+
+.page-reviews {
+
+}
+.page_content-reviews {
+
+}
+.content-header_reviews {
+    margin: 30px 0px 50px 0px;
+}
+.header-title_reviews {
+    text-align: center;
+    font-size: 35px;
+    font-family: "font1";
+    font-weight: bold;
+    margin: 0px 0px 30px 0px;
+}
+.title-line_reviews{
+    margin: auto;
+    border-bottom: 5px solid #4b4b4b;
+    width: 275px;
+    padding: 15px 0px 0px 0px;
+}
+.header-text_reviews {
+    font-family: "font1";
+    font-size: 22px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.header-text_reviews span{
+    font-family: "font2";
+}
+.content-main_reviews {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.main-items_reviews {
+    display: block;
+}
+.main-item_reviews {
+    margin-bottom: 70px;
+    display: flex;
+}
+.image-item_reviews {
+    
+}
+.image_reviews{
+    border-radius: 100px;
+    box-shadow: 0 0 0 3px #4b4b4b, 0 0 20px rgb(0, 0, 0);
+}
+.item-textcontent_reviews {
+    margin: 22px 0px 0px 20px;
+}
+.title-item_reviews {
+    font-size: 22px;
+    font-family: "font1";
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+.car-item_reviews {
+    font-size: 19px;
+    font-family: "font1";
+    font-weight: bold;
+    color: grey;
+    padding-bottom: 5px;
+}
+.text-item_reviews {
+    font-size: 17px;
+    font-family: "font1";
+}
+
+
+/* АДАПТАЦИЯ */
+
+@media(max-width: 500px){
+    .main-item_reviews {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+}
+
+/* АДАПТАЦИЯ */
