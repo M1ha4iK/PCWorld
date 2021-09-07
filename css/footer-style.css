@@ -267,7 +267,7 @@
         height: 337px;;
     }
     .footer-container-item{
-        padding: 10px;
+        /* padding: 10px; */
     }
     .footer-site-link{
         font-size: 12px;
@@ -300,7 +300,7 @@
         height: 335px;
     }
     .footer-container-item{
-        padding: 5px;
+        /* padding: 5px; */
     }
     .footer-container-item_left{
         padding-top: 15px;
