@@ -215,7 +215,7 @@
 
 @media(max-width: 1175px){
     .footer{
-        height: 364px;
+        height: 365px;
     }
     .footer-container-item{
         padding: 20px;
@@ -262,7 +262,7 @@
 }
 @media(max-width: 768px){
     .footer{
-        height: 338px;;
+        height: 337px;;
     }
     .footer-container-item{
         padding: 10px;
@@ -295,7 +295,7 @@
 
 @media(max-width: 648px){
     .footer{
-        height: 326px;
+        height: 335px;
     }
     .footer-container-item{
         padding: 5px;
