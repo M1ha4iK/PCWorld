@@ -300,7 +300,7 @@
 
 @media(max-width: 648px){
     .footer{
-        height: 346px;
+        height: 330px;
     }
     .footer-container-item{
         padding: 0px;
@@ -328,6 +328,9 @@
 }
 
 @media(max-width: 600px){
+    .footer{
+        height: 345px;
+    }
     .footer-content-item_logo{
         text-align: center;
         margin-right: 0px;
