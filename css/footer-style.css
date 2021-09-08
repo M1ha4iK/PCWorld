@@ -329,7 +329,7 @@
 
 @media(max-width: 600px){
     .footer{
-        height: 328px;
+        height: 300px;
     }
     .footer-content-item_logo{
         text-align: center;
