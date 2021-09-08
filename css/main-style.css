@@ -158,6 +158,8 @@
 .image-leaderseller {
     margin-bottom: 10px;
     width: 140px;
+    height: 22px;
+    line-height: 1.4;
     background:linear-gradient(-65deg, transparent 9px, #6cc460 0);
 }
 .image-leaderseller span{
